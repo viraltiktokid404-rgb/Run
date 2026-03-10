@@ -27,17 +27,17 @@
   "adminBot": [
     "",
     "",
-    "61585772322631"
+    "100002652020549"
   ],
   "developer": [
     "",
     "",
-    "61585772322631"
+    "100002652020549"
   ],
   "vipuser": [
     "",
     "",
-    "61585772322631"
+    "100002652020549"
   ],
   "reactBy": {
     "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -49,7 +49,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "X69X BOT V2",
-  "prefix": ")",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
